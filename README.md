@@ -12,4 +12,4 @@ Currently a second semester student at the University of Tübingen :)
 - when im not drowning in work i like reading a good book, right now im reading the myth of sisyphus
 
 #Projects
-coming soon!
+- coming soon!
