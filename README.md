@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1drv.ms/i/s!AkLLn2OWwPD8wxEvWzWvuGwCkIjC?e=aYsAKA" alt="lh7324">
+  <alt="lh7324">
 </p>
 
 ### Hi B)
